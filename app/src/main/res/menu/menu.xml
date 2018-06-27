@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/itemFirst"
+    android:title="Recent Tab">
+</item>
+
+    <item
+        android:id="@+id/itemSecond"
+        android:title="History" >
+    </item>
+
+    <item
+        android:id="@+id/itemThird"
+        android:title="search">
+    </item>
+
+    <item
+        android:id="@+id/itemFourth"
+        android:title="settings">
+    </item>
+
+    <item
+        android:id="@+id/itemFifth"
+        android:title="Close">
+    </item>
+
+</menu>
